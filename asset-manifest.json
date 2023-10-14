@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/hawon/static/css/main.5b1cbd55.chunk.css",
+<<<<<<< HEAD
+    "main.js": "/hawon/static/js/main.4bd15467.chunk.js",
+    "main.js.map": "/hawon/static/js/main.4bd15467.chunk.js.map",
+=======
+    "main.js": "/hawon/static/js/main.9ba0200e.chunk.js",
+    "main.js.map": "/hawon/static/js/main.9ba0200e.chunk.js.map",
+>>>>>>> 11ae9162916b18fa4b8f239e8b27990e89e26d9c
+    "runtime-main.js": "/hawon/static/js/runtime-main.06c7e197.js",
+    "runtime-main.js.map": "/hawon/static/js/runtime-main.06c7e197.js.map",
+    "static/js/2.8cb50717.chunk.js": "/hawon/static/js/2.8cb50717.chunk.js",
+    "static/js/2.8cb50717.chunk.js.map": "/hawon/static/js/2.8cb50717.chunk.js.map",
+    "index.html": "/hawon/index.html",
+<<<<<<< HEAD
+    "precache-manifest.a81bd889a93243dc96a60692b1953101.js": "/hawon/precache-manifest.a81bd889a93243dc96a60692b1953101.js",
+=======
+    "precache-manifest.dc1bb4a91a8ae4d31e399d700d149e67.js": "/hawon/precache-manifest.dc1bb4a91a8ae4d31e399d700d149e67.js",
+>>>>>>> 11ae9162916b18fa4b8f239e8b27990e89e26d9c
+    "service-worker.js": "/hawon/service-worker.js",
+    "static/css/main.5b1cbd55.chunk.css.map": "/hawon/static/css/main.5b1cbd55.chunk.css.map",
+    "static/js/2.8cb50717.chunk.js.LICENSE.txt": "/hawon/static/js/2.8cb50717.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/hawon/static/media/AI.43327df2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06c7e197.js",
+    "static/js/2.8cb50717.chunk.js",
+    "static/css/main.5b1cbd55.chunk.css",
+<<<<<<< HEAD
+    "static/js/main.4bd15467.chunk.js"
+=======
+    "static/js/main.9ba0200e.chunk.js"
+>>>>>>> 11ae9162916b18fa4b8f239e8b27990e89e26d9c
+  ]
+}
