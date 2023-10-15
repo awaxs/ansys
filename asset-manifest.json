@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hawon/static/css/main.5b1cbd55.chunk.css",
+    "main.js": "/hawon/static/js/main.a34c094e.chunk.js",
+    "main.js.map": "/hawon/static/js/main.a34c094e.chunk.js.map",
+    "runtime-main.js": "/hawon/static/js/runtime-main.06c7e197.js",
+    "runtime-main.js.map": "/hawon/static/js/runtime-main.06c7e197.js.map",
+    "static/js/2.8cb50717.chunk.js": "/hawon/static/js/2.8cb50717.chunk.js",
+    "static/js/2.8cb50717.chunk.js.map": "/hawon/static/js/2.8cb50717.chunk.js.map",
+    "index.html": "/hawon/index.html",
+    "precache-manifest.2c289703dc72d90da4eacb965cf93243.js": "/hawon/precache-manifest.2c289703dc72d90da4eacb965cf93243.js",
+    "service-worker.js": "/hawon/service-worker.js",
+    "static/css/main.5b1cbd55.chunk.css.map": "/hawon/static/css/main.5b1cbd55.chunk.css.map",
+    "static/js/2.8cb50717.chunk.js.LICENSE.txt": "/hawon/static/js/2.8cb50717.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/hawon/static/media/AI.43327df2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06c7e197.js",
+    "static/js/2.8cb50717.chunk.js",
+    "static/css/main.5b1cbd55.chunk.css",
+    "static/js/main.a34c094e.chunk.js"
+  ]
+}
