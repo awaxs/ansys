@@ -1,23 +1,14 @@
 {
   "files": {
-    "main.css": "/ansys/static/css/main.eeb7bd4a.chunk.css",
-    "main.js": "/ansys/static/js/main.74f35887.chunk.js",
-    "main.js.map": "/ansys/static/js/main.74f35887.chunk.js.map",
-    "runtime-main.js": "/ansys/static/js/runtime-main.ed006b5a.js",
-    "runtime-main.js.map": "/ansys/static/js/runtime-main.ed006b5a.js.map",
-    "static/js/2.1963a30f.chunk.js": "/ansys/static/js/2.1963a30f.chunk.js",
-    "static/js/2.1963a30f.chunk.js.map": "/ansys/static/js/2.1963a30f.chunk.js.map",
+    "main.css": "/ansys/static/css/main.05d3f1e0.css",
+    "main.js": "/ansys/static/js/main.e137d5f6.js",
+    "static/media/ansys.png": "/ansys/static/media/ansys.030c4db48d1deb9f4c5c.png",
     "index.html": "/ansys/index.html",
-    "precache-manifest.3d719d8ffe211c4c9dc0b18e8a365818.js": "/ansys/precache-manifest.3d719d8ffe211c4c9dc0b18e8a365818.js",
-    "service-worker.js": "/ansys/service-worker.js",
-    "static/css/main.eeb7bd4a.chunk.css.map": "/ansys/static/css/main.eeb7bd4a.chunk.css.map",
-    "static/js/2.1963a30f.chunk.js.LICENSE.txt": "/ansys/static/js/2.1963a30f.chunk.js.LICENSE.txt",
-    "static/media/styles.css": "/ansys/static/media/AI.43327df2.jpg"
+    "main.05d3f1e0.css.map": "/ansys/static/css/main.05d3f1e0.css.map",
+    "main.e137d5f6.js.map": "/ansys/static/js/main.e137d5f6.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.ed006b5a.js",
-    "static/js/2.1963a30f.chunk.js",
-    "static/css/main.eeb7bd4a.chunk.css",
-    "static/js/main.74f35887.chunk.js"
+    "static/css/main.05d3f1e0.css",
+    "static/js/main.e137d5f6.js"
   ]
 }
